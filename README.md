@@ -33,4 +33,4 @@ To analyze customer churn patterns in a telecommunications company and build a p
 Thanks to **SaiKet Systems** for the opportunity and mentorship during this internship.
 
 ## 📹 Project Video
-[Watch my explainer video on LinkedIn](https://ai.invideo.io/ai-video?video=customer-churn-analysis-prediction-internship-project-by-amaya-gunawardhana-dshffi)
+https://video.pictory.ai/v2/preview/2025122419412738552ada06160144e2583e42039796c445f
